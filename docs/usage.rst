@@ -148,3 +148,7 @@ Templates
 ---------
 
 Unlike the Django template tag implementation the Jinja2 implementation uses different templates, so if you wish to override them please override pipeline/css.jinja and pipeline/js.jinja.
+
+测试
+------------
+2019-04-11
